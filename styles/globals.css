@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gray-900;
+}
+
+a {
+  @apply transition duration-150 ease-in-out;
+}
